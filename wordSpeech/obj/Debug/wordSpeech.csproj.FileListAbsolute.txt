@@ -1,0 +1,14 @@
+D:\Programming\speech\wordSpeech\wordSpeech\bin\Debug\wordSpeech.dll
+D:\Programming\speech\wordSpeech\wordSpeech\bin\Debug\wordSpeech.pdb
+D:\Programming\speech\wordSpeech\wordSpeech\bin\Debug\wordSpeech.dll.manifest
+D:\Programming\speech\wordSpeech\wordSpeech\bin\Debug\wordSpeech.vsto
+D:\Programming\speech\wordSpeech\wordSpeech\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Programming\speech\wordSpeech\wordSpeech\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Programming\speech\wordSpeech\wordSpeech\obj\Debug\wordSpeech.csprojResolveAssemblyReference.cache
+D:\Programming\speech\wordSpeech\wordSpeech\obj\Debug\wordSpeech.Properties.Resources.resources
+D:\Programming\speech\wordSpeech\wordSpeech\obj\Debug\wordSpeech.Ribbon1.resources
+D:\Programming\speech\wordSpeech\wordSpeech\obj\Debug\wordSpeech.csproj.GenerateResource.Cache
+D:\Programming\speech\wordSpeech\wordSpeech\obj\Debug\wordSpeech.dll
+D:\Programming\speech\wordSpeech\wordSpeech\obj\Debug\wordSpeech.pdb
+D:\Programming\speech\wordSpeech\wordSpeech\bin\Debug\NAudio.dll
+D:\Programming\speech\wordSpeech\wordSpeech\bin\Debug\NAudio.xml
